@@ -2,9 +2,9 @@
 using namespace std;
 void print(int arr[] , int index , int n , int sum){
 	if(index== n){
-		cout<<'{';
+		
 		cout<<sum<<endl;
-		cout<<'}';
+		
 		return;
 	}
 	//include
